@@ -1,0 +1,12 @@
+export enum ActionTypes {
+    SET_USERNAME,
+    SET_PASSWORD,
+    SIGN_OUT,
+    ADD_NOTE,
+    DELETE_NOTE,
+    UPDATE_NOTE,
+    RESET_NOTES,
+    ADD_CUSTOMER,
+    REMOVE_CUSTOMER,
+    RESET_CUSTOMERS,
+}
